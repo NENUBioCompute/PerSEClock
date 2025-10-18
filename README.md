@@ -128,8 +128,8 @@ Each column represents a sample
 Use the example file as input, run the [test_perseclock.py](https://github.com/NENUBioCompute/PerSEClock/blob/main/test_perseclock.py) , 
 and obtain the output shown below:
 ```bash
-[INFO] Successfully predicted 78 samples.
-[INFO] MAE: 1.23, R²: 0.87, RMSE: 1.45
+[INFO] Successfully predicted 19 samples.
+[INFO] MAE: 1.24, R²: 0.89, RMSE: 1.47
 [INFO] Predictions saved to './results/PerSEClock_Predicted_Ages.csv'.
 ```
 
