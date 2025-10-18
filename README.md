@@ -124,7 +124,7 @@ Each column represents a sample
 
 **Input target variable (ChronAge)** should be numeric in _pheno.csv
 
-## 📊 4. Example Results
+## 📊 5. Example Results
 Use the example file as input, run the [test_perseclock.py](https://github.com/NENUBioCompute/PerSEClock/blob/main/test_perseclock.py) , 
 and obtain the output shown below:
 ```bash
