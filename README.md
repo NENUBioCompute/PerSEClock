@@ -132,4 +132,5 @@ and obtain the output shown below:
 [INFO] MAE: 1.24, R²: 0.89, RMSE: 1.47
 [INFO] Predictions saved to './results/PerSEClock_Predicted_Ages.csv'.
 ```
+![Visualization: Predicted vs True Age](https://github.com/NENUBioCompute/PerSEClock/blob/main/results/predicted_vs_true.png)
 
